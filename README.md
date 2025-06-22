@@ -8,7 +8,16 @@
     ```sh
     winget install --id Cloudflare.cloudflared
     ```
+-MCR-minecraft-launcher.exe
+    ダブルクリックで実行してください。
+    [WindowsによってPCが保護されました]と表示される場合は、詳細情報を押してそのまま実行してください。
+    実行すると最初にMinecraftランチャーのパスを入力してください。
+    次にポートを入力してください、デフォルトは20100に設定されています。
+    ホスト名はデフォルトのままで大丈夫です。
 
+    <p>.exeファイルを実行すると.exeファイルのあるディレクトリにconfig.josonファイルが生成されます。
+    <p>適宜ショートカットリンクを用いるなどしてください。
+    
 - Minecraft Launcher  
     パスの例:  
     C:\Program Files\Minecraft\launcher.exe
