@@ -15,7 +15,7 @@
 
 
 - リンクをクリック>ウェブサイトの"Code">"Zip"の順にクリックしてダウンロード
-    [github]https://github.com/mcr-2024b/MineCRaft_ModCliant
+  <P>[github]https://github.com/mcr-2024b/MineCRaft_ModCliant
 
     .zipファイルを展開(解凍)
 
