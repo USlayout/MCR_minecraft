@@ -22,8 +22,8 @@
 パスの例: `C:\Program Files\Minecraft\launcher.exe`
 
 ### MineCRaft ModClient
-1. [GitHub リポジトリ](https://github.com/mcr-2024b/MineCRaft_ModCliant)にアクセス
-2. 「Code」→「Download ZIP」の順にクリックしてダウンロード
+1. ~~[GitHub リポジトリ](https://github.com/mcr-2024b/MineCRaft_ModCliant)にアクセス~~ mod_settingfiles.zipをクリック
+2. ダウンロードマークをクリックしてダウンロード 
 3. .zipファイルを展開（解凍）
 
 ### Java 8
